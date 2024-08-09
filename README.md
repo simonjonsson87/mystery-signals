@@ -1,6 +1,8 @@
 # Purpose
 This repository is for storing files related to the investigation of mystery radio signals on 868MHz which is written up in this [Blog post](https://simonjonsson87.github.io/blog/2024/Investigating-mystery-signals-on-868MHz/) 
 
+Note the repository [rtl_433](https://github.com/simonjonsson87/rtl_433.git) is related to this work. As part of this investigation a device has been added to the fork of rtl_433 with the addition of [this file](https://github.com/simonjonsson87/rtl_433/blob/unknown_device/src/devices/unknown1.c).
+
 # Summary of contents 
 
 |Location | Conents |
